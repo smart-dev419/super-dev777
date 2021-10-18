@@ -166,11 +166,11 @@
   Researched, proposed, and integrated several Ethereum Improvement Proposals (EIPs).<br>
 
   - Web Field:<br>
-  ★★Django, PHP, Javascript<br>
+  ★★Django, PHP, Javascript, Typescript<br>
   ★★MERN, MEAN, React, Vue, Next, Nuxt<br>
   ★★Laravel<br>
 
-  - Programming Languages: C++, Javascript, PHP, Python, C#, Java, Solidity, Rust, Ruby<br>
+  - Programming Languages: C++, Javascript, Typescript, PHP, Python, C#, Java, Solidity, Rust, Ruby<br>
 
   Your success is my success and I will not let you down<br>
   Let's have a good journey!!!
