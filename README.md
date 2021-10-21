@@ -180,15 +180,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  
+  <div align=center>
     <a href="https://github.com/super-dev777/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=super-dev777&theme=react&border=61dafb&hide_border=true" alt="super-dev777" />
     </a>
     <a href="https://github.com/super-dev777/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=super-dev777&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  
-  <br><br><br><br><br>
+  </div>
+  <br><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=super-dev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <br>
   <div align=center>
