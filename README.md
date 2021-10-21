@@ -188,14 +188,16 @@
       <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=super-dev777&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </p>
-  <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=super-dev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <br>
   <div align=center>
+  <br><br><br>
     <a href="https://github.com/super-dev777/github-readme-stats">
       <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dev777&hide=c%23,powershell,Css,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=super-dev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br>
+  
 </p>
 <hr>
 <h2 align="center">⚡ Profile Trophy ⚡</h2>
